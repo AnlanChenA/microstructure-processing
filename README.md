@@ -11,3 +11,6 @@ To further improve smoothness and eliminate residual artifacts, an optional biha
 One example of input structure, filled structure, and smoothed structure:
 ![Demo](images/result_demo.png)
 
+A zoomed-in view reveals why biharmonic inpainting is necessary for smoothing the filled regions.
+![Demo](images/smooth_details.png)
+

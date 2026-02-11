@@ -9,5 +9,5 @@ To further improve smoothness and eliminate residual artifacts, an optional biha
 
 # Results Demo
 One example of input structure, filled structure, and smoothed structure:
-![Demo](images/architecture.png)
+![Demo](images/result_demo.png)
 
